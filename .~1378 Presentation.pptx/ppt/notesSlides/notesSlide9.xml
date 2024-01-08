@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="1"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>IBM’s fundamental </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>application modernization </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>design principle in this space is the interoperability of COBOL and Java together. It is not the intent or recommendation to convert an entire set of COBOL applications to Java. Instead, IBM is creating an experience that allows for optimal use of COBOL and Java together. COBOL is a compiled programming language that excels at the performance of sensitive workloads and is extremely efficient. Java introduces user-friendly external Application Programming Interfaces (APIs) and dynamic structures. Again, either COBOL and/or Java is a fine choice on </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>IBM Z </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>and is really about client preference. Regardless of the choice, IBM supports full interoperability </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>and optimization </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>for </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>IBM Z </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>qualities of service, IBM will deliver a </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>targeted modernization </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>experience that allows clients to leverage existing application investments.</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:endParaRPr lang="en-US" dirty="0"/>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" indent="0">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>COBOL excels at:</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Procedural programming model which incorporates business-oriented features</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Precise decimal calculations</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Performance sensitive workloads</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:br>
+              <a:rPr lang="en-US" dirty="0"/>
+            </a:br>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Java is: </a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>An object orientated programming model which promotes modular and reusable code</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Easier to work with external interfaces - APIs, Events, etc.</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Easier to work with dynamic structures - Extensible Markup Language (XML), JavaScript Object Notation (JSON), Avro, etc.</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:endParaRPr lang="en-US" dirty="0"/>
+          </a:p>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" defTabSz="2438522" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+              <a:lnSpc>
+                <a:spcPct val="110000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClrTx/>
+              <a:buSzTx/>
+              <a:buFontTx/>
+              <a:buNone/>
+              <a:tabLst/>
+              <a:defRPr/>
+            </a:pPr>
+            <a:r>
+              <a:rPr kumimoji="0" lang="en-US" b="1" i="0" u="none" strike="noStrike" kern="1200" cap="none" spc="0" normalizeH="0" baseline="0" noProof="0" dirty="0">
+                <a:ln>
+                  <a:noFill/>
+                </a:ln>
+                <a:effectLst/>
+                <a:uLnTx/>
+                <a:uFillTx/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>Acronyms:</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" b="1" dirty="0"/>
+              <a:t>IMS TS </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>= Information Management System Transaction Server</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" marR="0" lvl="0" indent="-171450" algn="l" defTabSz="2438522" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+              <a:lnSpc>
+                <a:spcPct val="110000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClrTx/>
+              <a:buSzTx/>
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+              <a:tabLst/>
+              <a:defRPr/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" b="1" dirty="0"/>
+              <a:t>IMS DB </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>= Information Management System Database Manager</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" b="1" dirty="0"/>
+              <a:t>CICS </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>= Customer Information Control System</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" b="1" dirty="0"/>
+              <a:t>VSAM</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t> = Virtual Storage Access Method</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:pPr marL="171450" indent="-171450">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" b="1" dirty="0"/>
+              <a:t>COBOL</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t> = Common Business Oriented Language</a:t>
+            </a:r>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="Slide Number Placeholder 3"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldNum" sz="quarter" idx="5"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:fld id="{6E2E38B8-B0B4-AD41-AC6E-B781F46A9FD3}" type="slidenum">
+              <a:rPr lang="en-US" smtClean="0"/>
+              <a:pPr/>
+              <a:t>9</a:t>
+            </a:fld>
+            <a:endParaRPr lang="en-US" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="7" name="Slide Image Placeholder 6">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2292FB30-C297-2114-EE69-AF4B778B9942}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="206375" y="228600"/>
+            <a:ext cx="6419850" cy="3611563"/>
+          </a:xfrm>
+        </p:spPr>
+      </p:sp>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="619388774"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>

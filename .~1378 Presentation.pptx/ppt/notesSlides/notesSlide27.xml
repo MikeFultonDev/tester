@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:notes xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Slide Image Placeholder 1"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1" noRot="1" noChangeAspect="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldImg"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1822450" y="228600"/>
+            <a:ext cx="3213100" cy="1808163"/>
+          </a:xfrm>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Notes Placeholder 2"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="body" idx="1"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr algn="l">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>SQL Data Insights Demo - </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" u="none" strike="noStrike" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+                <a:hlinkClick r:id="rId3"/>
+              </a:rPr>
+              <a:t>https://ibm.biz/z16-aml</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="1D1C1D"/>
+              </a:solidFill>
+              <a:effectLst/>
+              <a:latin typeface="+mn-lt"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>Python AI </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0" err="1">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>Tookit</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t> Demo - </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" u="none" strike="noStrike" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+                <a:hlinkClick r:id="rId4"/>
+              </a:rPr>
+              <a:t>https://mediacenter.ibm.com/media/t/1_ns5n0wty</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="1D1C1D"/>
+              </a:solidFill>
+              <a:effectLst/>
+              <a:latin typeface="+mn-lt"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>AI Powered AML Demo - </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" u="none" strike="noStrike" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+                <a:hlinkClick r:id="rId5"/>
+              </a:rPr>
+              <a:t>https://ibm.box.com/s/1268m6a0xxznw947s30ftzfvzf7xxftu</a:t>
+            </a:r>
+            <a:br>
+              <a:rPr lang="en-US" sz="1000" b="0" i="0" u="none" strike="noStrike" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+            </a:br>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="262626"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>Watson Code Assistant Product Page: </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="093D95"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+                <a:hlinkClick r:id="rId6"/>
+              </a:rPr>
+              <a:t>https://www.ibm.com/products/watson-code-assistant</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1000" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="093D95"/>
+              </a:solidFill>
+              <a:effectLst/>
+              <a:latin typeface="+mn-lt"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US" sz="1000" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="262626"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>Has a demo for AI generated playbooks for Adding userids to z/OS</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US" b="0" i="0" dirty="0" err="1">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t>ost</a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" b="0" i="0" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1D1C1D"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+              </a:rPr>
+              <a:t> popular use-case of Certificate Renewal Automation on Media Center here: </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US" b="0" i="0" u="none" strike="noStrike" dirty="0">
+                <a:effectLst/>
+                <a:latin typeface="+mn-lt"/>
+                <a:hlinkClick r:id="rId7"/>
+              </a:rPr>
+              <a:t>https://mediacenter.ibm.com/media/Certificate%20management%20automation%20with%20Ansible%20for%20z_OS/1_sx6oqr00</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1000" dirty="0">
+              <a:solidFill>
+                <a:srgbClr val="262626"/>
+              </a:solidFill>
+              <a:effectLst/>
+              <a:latin typeface="+mn-lt"/>
+            </a:endParaRPr>
+          </a:p>
+          <a:p>
+            <a:pPr algn="l">
+              <a:buFont typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+              <a:buChar char="•"/>
+            </a:pPr>
+            <a:endParaRPr lang="en-US" dirty="0">
+              <a:latin typeface="+mn-lt"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="4" name="Slide Number Placeholder 3"/>
+          <p:cNvSpPr>
+            <a:spLocks noGrp="1"/>
+          </p:cNvSpPr>
+          <p:nvPr>
+            <p:ph type="sldNum" idx="12"/>
+          </p:nvPr>
+        </p:nvSpPr>
+        <p:spPr/>
+        <p:txBody>
+          <a:bodyPr/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" defTabSz="686017" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+              <a:lnSpc>
+                <a:spcPct val="100000"/>
+              </a:lnSpc>
+              <a:spcBef>
+                <a:spcPts val="0"/>
+              </a:spcBef>
+              <a:spcAft>
+                <a:spcPts val="0"/>
+              </a:spcAft>
+              <a:buClr>
+                <a:srgbClr val="000000"/>
+              </a:buClr>
+              <a:buSzPts val="600"/>
+              <a:buFont typeface="Arial"/>
+              <a:buNone/>
+              <a:tabLst/>
+              <a:defRPr/>
+            </a:pPr>
+            <a:fld id="{00000000-1234-1234-1234-123412341234}" type="slidenum">
+              <a:rPr kumimoji="0" lang="en-US" sz="600" b="0" i="0" u="none" strike="noStrike" kern="1200" cap="none" spc="0" normalizeH="0" baseline="0" noProof="0" smtClean="0">
+                <a:ln>
+                  <a:noFill/>
+                </a:ln>
+                <a:solidFill>
+                  <a:srgbClr val="000000"/>
+                </a:solidFill>
+                <a:effectLst/>
+                <a:uLnTx/>
+                <a:uFillTx/>
+                <a:latin typeface="IBM Plex Sans Light"/>
+                <a:ea typeface="IBM Plex Sans Light"/>
+                <a:cs typeface="IBM Plex Sans Light"/>
+                <a:sym typeface="IBM Plex Sans Light"/>
+              </a:rPr>
+              <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="l" defTabSz="686017" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                <a:lnSpc>
+                  <a:spcPct val="100000"/>
+                </a:lnSpc>
+                <a:spcBef>
+                  <a:spcPts val="0"/>
+                </a:spcBef>
+                <a:spcAft>
+                  <a:spcPts val="0"/>
+                </a:spcAft>
+                <a:buClr>
+                  <a:srgbClr val="000000"/>
+                </a:buClr>
+                <a:buSzPts val="600"/>
+                <a:buFont typeface="Arial"/>
+                <a:buNone/>
+                <a:tabLst/>
+                <a:defRPr/>
+              </a:pPr>
+              <a:t>28</a:t>
+            </a:fld>
+            <a:endParaRPr kumimoji="0" lang="en-US" sz="600" b="0" i="0" u="none" strike="noStrike" kern="1200" cap="none" spc="0" normalizeH="0" baseline="0" noProof="0">
+              <a:ln>
+                <a:noFill/>
+              </a:ln>
+              <a:solidFill>
+                <a:srgbClr val="000000"/>
+              </a:solidFill>
+              <a:effectLst/>
+              <a:uLnTx/>
+              <a:uFillTx/>
+              <a:latin typeface="IBM Plex Sans Light"/>
+              <a:ea typeface="IBM Plex Sans Light"/>
+              <a:cs typeface="IBM Plex Sans Light"/>
+              <a:sym typeface="IBM Plex Sans Light"/>
+            </a:endParaRPr>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="349988292"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:notes>
